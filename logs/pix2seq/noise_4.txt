@@ -98,15 +98,6 @@ step: 1940, lr: 0.000825, cost: 0.1597, recon: 0.1597, train_time_taken: 77.0467
 step: 1960, lr: 0.000824, cost: 0.1294, recon: 0.1294, train_time_taken: 73.8411
 step: 1980, lr: 0.000822, cost: 0.1544, recon: 0.1544, train_time_taken: 71.3719
 step: 2000, lr: 0.000821, cost: 0.1502, recon: 0.1502, train_time_taken: 73.0204
-best_valid_cost: 0.0505, valid_cost: 0.0505, valid_recon: 0.0505, valid_time_taken: 340.1939
-WARNING:tensorflow:From sketch_pix2seq_train.py:258: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
-
-WARNING:tensorflow:From sketch_pix2seq_train.py:258: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
-
-saving model outputs/snapshot\vector.
-global_step 2000.
-time_taken_save 7.9165.
-eval_cost: 0.0507, eval_recon: 0.0507, eval_time_taken: 291.1705
 step: 2020, lr: 0.000819, cost: 0.1647, recon: 0.1647, train_time_taken: 77.6337
 step: 2040, lr: 0.000817, cost: 0.1109, recon: 0.1109, train_time_taken: 69.4977
 step: 2060, lr: 0.000816, cost: 0.0979, recon: 0.0979, train_time_taken: 69.8695
@@ -207,11 +198,6 @@ step: 3940, lr: 0.000678, cost: 0.0966, recon: 0.0966, train_time_taken: 64.8190
 step: 3960, lr: 0.000676, cost: 0.0524, recon: 0.0524, train_time_taken: 70.8432
 step: 3980, lr: 0.000675, cost: 0.0610, recon: 0.0610, train_time_taken: 66.3806
 step: 4000, lr: 0.000674, cost: 0.1028, recon: 0.1028, train_time_taken: 66.2257
-best_valid_cost: 0.0018, valid_cost: 0.0018, valid_recon: 0.0018, valid_time_taken: 103.8413
-saving model outputs/snapshot\vector.
-global_step 4000.
-time_taken_save 8.3044.
-eval_cost: 0.0020, eval_recon: 0.0020, eval_time_taken: 104.6003
 step: 4020, lr: 0.000672, cost: 0.0493, recon: 0.0493, train_time_taken: 63.2436
 step: 4040, lr: 0.000671, cost: 0.1121, recon: 0.1121, train_time_taken: 66.9639
 step: 4060, lr: 0.000670, cost: 0.0752, recon: 0.0752, train_time_taken: 65.3813
@@ -312,11 +298,6 @@ step: 5940, lr: 0.000557, cost: 0.0337, recon: 0.0337, train_time_taken: 67.0319
 step: 5960, lr: 0.000555, cost: 0.0327, recon: 0.0327, train_time_taken: 56.3741
 step: 5980, lr: 0.000554, cost: 0.0614, recon: 0.0614, train_time_taken: 58.7846
 step: 6000, lr: 0.000553, cost: 0.0880, recon: 0.0880, train_time_taken: 56.8753
-best_valid_cost: -0.0313, valid_cost: -0.0313, valid_recon: -0.0313, valid_time_taken: 120.2635
-saving model outputs/snapshot\vector.
-global_step 6000.
-time_taken_save 9.1292.
-eval_cost: -0.0317, eval_recon: -0.0317, eval_time_taken: 93.2124
 step: 6020, lr: 0.000552, cost: 0.0484, recon: 0.0484, train_time_taken: 58.7402
 step: 6040, lr: 0.000551, cost: 0.0235, recon: 0.0235, train_time_taken: 58.2642
 step: 6060, lr: 0.000550, cost: 0.0633, recon: 0.0633, train_time_taken: 56.1491
@@ -417,11 +398,6 @@ step: 7940, lr: 0.000457, cost: 0.0458, recon: 0.0458, train_time_taken: 55.0117
 step: 7960, lr: 0.000457, cost: 0.0403, recon: 0.0403, train_time_taken: 55.1989
 step: 7980, lr: 0.000456, cost: 0.0661, recon: 0.0661, train_time_taken: 57.9610
 step: 8000, lr: 0.000455, cost: 0.0143, recon: 0.0143, train_time_taken: 57.7175
-best_valid_cost: -0.0527, valid_cost: -0.0527, valid_recon: -0.0527, valid_time_taken: 92.8146
-saving model outputs/snapshot\vector.
-global_step 8000.
-time_taken_save 9.4623.
-eval_cost: -0.0526, eval_recon: -0.0526, eval_time_taken: 129.2285
 step: 8020, lr: 0.000454, cost: 0.0569, recon: 0.0569, train_time_taken: 54.9645
 step: 8040, lr: 0.000453, cost: 0.0039, recon: 0.0039, train_time_taken: 51.7713
 step: 8060, lr: 0.000452, cost: 0.0068, recon: 0.0068, train_time_taken: 54.2757

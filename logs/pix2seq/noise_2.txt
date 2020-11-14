@@ -198,11 +198,6 @@ step: 3940, lr: 0.000678, cost: 0.1588, recon: 0.1588, train_time_taken: 58.6424
 step: 3960, lr: 0.000676, cost: 0.1455, recon: 0.1455, train_time_taken: 63.9263
 step: 3980, lr: 0.000675, cost: 0.1737, recon: 0.1737, train_time_taken: 59.0309
 step: 4000, lr: 0.000674, cost: 0.1107, recon: 0.1107, train_time_taken: 59.0957
-best_valid_cost: 0.0497, valid_cost: 0.0497, valid_recon: 0.0497, valid_time_taken: 135.0211
-saving model outputs/snapshot\vector.
-global_step 4000.
-time_taken_save 8.5696.
-eval_cost: 0.0501, eval_recon: 0.0501, eval_time_taken: 92.4761
 step: 4020, lr: 0.000672, cost: 0.1111, recon: 0.1111, train_time_taken: 56.4327
 step: 4040, lr: 0.000671, cost: 0.1029, recon: 0.1029, train_time_taken: 58.0385
 step: 4060, lr: 0.000670, cost: 0.1639, recon: 0.1639, train_time_taken: 54.3798
@@ -303,11 +298,6 @@ step: 5940, lr: 0.000557, cost: -0.0050, recon: -0.0050, train_time_taken: 74.29
 step: 5960, lr: 0.000555, cost: 0.0968, recon: 0.0968, train_time_taken: 76.4474
 step: 5980, lr: 0.000554, cost: 0.1066, recon: 0.1066, train_time_taken: 76.9460
 step: 6000, lr: 0.000553, cost: 0.0880, recon: 0.0880, train_time_taken: 80.7911
-best_valid_cost: 0.0082, valid_cost: 0.0082, valid_recon: 0.0082, valid_time_taken: 355.1875
-saving model outputs/snapshot\vector.
-global_step 6000.
-time_taken_save 9.4015.
-eval_cost: 0.0084, eval_recon: 0.0084, eval_time_taken: 350.6474
 step: 6020, lr: 0.000552, cost: 0.1022, recon: 0.1022, train_time_taken: 74.5138
 step: 6040, lr: 0.000551, cost: 0.1028, recon: 0.1028, train_time_taken: 78.5682
 step: 6060, lr: 0.000550, cost: 0.1162, recon: 0.1162, train_time_taken: 74.6014
@@ -408,11 +398,6 @@ step: 7940, lr: 0.000457, cost: 0.0577, recon: 0.0577, train_time_taken: 69.0983
 step: 7960, lr: 0.000457, cost: 0.0970, recon: 0.0970, train_time_taken: 67.3431
 step: 7980, lr: 0.000456, cost: 0.0568, recon: 0.0568, train_time_taken: 68.5038
 step: 8000, lr: 0.000455, cost: 0.0957, recon: 0.0957, train_time_taken: 65.5736
-best_valid_cost: -0.0185, valid_cost: -0.0185, valid_recon: -0.0185, valid_time_taken: 134.0521
-saving model outputs/snapshot\vector.
-global_step 8000.
-time_taken_save 9.1456.
-eval_cost: -0.0187, eval_recon: -0.0187, eval_time_taken: 133.3370
 step: 8020, lr: 0.000454, cost: 0.0714, recon: 0.0714, train_time_taken: 66.0535
 step: 8040, lr: 0.000453, cost: 0.0515, recon: 0.0515, train_time_taken: 65.6930
 step: 8060, lr: 0.000452, cost: 0.0663, recon: 0.0663, train_time_taken: 66.8134
