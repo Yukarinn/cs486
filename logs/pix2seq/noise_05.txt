@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 step: 20, lr: 0.000998, cost: 1.2741, recon: 1.2741, train_time_taken: 56.3520
 step: 40, lr: 0.000996, cost: 1.2348, recon: 1.2348, train_time_taken: 49.8790
 step: 60, lr: 0.000994, cost: 1.0241, recon: 1.0241, train_time_taken: 53.5985
@@ -1000,4 +999,3 @@ step: 9940, lr: 0.000376, cost: 0.0809, recon: 0.0809, train_time_taken: 49.6483
 step: 9960, lr: 0.000376, cost: 0.0779, recon: 0.0779, train_time_taken: 48.4102
 step: 9980, lr: 0.000375, cost: 0.0542, recon: 0.0542, train_time_taken: 47.8020
 step: 10000, lr: 0.000374, cost: 0.1219, recon: 0.1219, train_time_taken: 48.5071
->>>>>>> d797f6ce402feb264d248a396b12f1cbe050253b
